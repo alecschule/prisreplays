@@ -1,0 +1,51 @@
+/* Mobile Styling First */
+
+#recent-games, #searched-games {
+   background-color: #344156;
+   color: white;
+}
+
+.game-details {
+   display: block;
+   border: 1px solid black;
+}
+
+.game-details:hover {
+   background-color: #566c8f;
+}
+
+.game-link, .game-link:visited {
+   color: white;
+}
+
+.game-link:hover {
+   color:white
+}
+
+/* Game Details Page */
+#game-details-main {
+   margin: 0 auto;
+   background-color: #344156;
+   color: white;
+   min-height: 100%;
+}
+
+#game-details-main img {
+   margin-bottom: 5px;
+}
+
+#search-main {
+   padding: 0 3px;
+}
+
+#replays {
+   height:600px;
+}
+
+/* tablet */
+@media (min-width: 768px) {
+   #game-details-main {
+      width: 90%;
+      padding: 0 3px;
+   }
+}
