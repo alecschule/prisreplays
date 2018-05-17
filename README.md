@@ -3,7 +3,7 @@ PrisReplays (name subject to change) is a website meant to provide utilities for
 ##### Technical Details
 PrisReplays is built on the following technologies:
 * PHP backend
-* HTML and CSS Frontend
+* HTML and CSS frontend
  * CSS Bootstrap framework used for responsive web design
 * MySQL database
 
